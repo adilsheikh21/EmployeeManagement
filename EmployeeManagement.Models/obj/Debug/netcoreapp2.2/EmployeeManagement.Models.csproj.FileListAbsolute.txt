@@ -1,0 +1,13 @@
+E:\EmployeeManagement\EmployeeManagement.Models\bin\Debug\netcoreapp2.2\EmployeeManagement.Models.deps.json
+E:\EmployeeManagement\EmployeeManagement.Models\bin\Debug\netcoreapp2.2\EmployeeManagement.Models.dll
+E:\EmployeeManagement\EmployeeManagement.Models\bin\Debug\netcoreapp2.2\EmployeeManagement.Models.pdb
+E:\EmployeeManagement\EmployeeManagement.Models\bin\Debug\netcoreapp2.2\EmployeeManagement.Utilities.dll
+E:\EmployeeManagement\EmployeeManagement.Models\bin\Debug\netcoreapp2.2\EmployeeManagement.Utilities.pdb
+E:\EmployeeManagement\EmployeeManagement.Models\obj\Debug\netcoreapp2.2\EmployeeManagement.Models.csproj.AssemblyReference.cache
+E:\EmployeeManagement\EmployeeManagement.Models\obj\Debug\netcoreapp2.2\EmployeeManagement.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\EmployeeManagement\EmployeeManagement.Models\obj\Debug\netcoreapp2.2\EmployeeManagement.Models.AssemblyInfoInputs.cache
+E:\EmployeeManagement\EmployeeManagement.Models\obj\Debug\netcoreapp2.2\EmployeeManagement.Models.AssemblyInfo.cs
+E:\EmployeeManagement\EmployeeManagement.Models\obj\Debug\netcoreapp2.2\EmployeeManagement.Models.csproj.CoreCompileInputs.cache
+E:\EmployeeManagement\EmployeeManagement.Models\obj\Debug\netcoreapp2.2\EmployeeManagement.Models.csproj.CopyComplete
+E:\EmployeeManagement\EmployeeManagement.Models\obj\Debug\netcoreapp2.2\EmployeeManagement.Models.dll
+E:\EmployeeManagement\EmployeeManagement.Models\obj\Debug\netcoreapp2.2\EmployeeManagement.Models.pdb

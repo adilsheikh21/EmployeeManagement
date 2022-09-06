@@ -1,0 +1,9 @@
+C:\Users\LENOVO\source\repos\EmployeeManagement\EmployeeManagement.Factories\bin\Debug\netcoreapp3.1\EmployeeManagement.Factories.deps.json
+C:\Users\LENOVO\source\repos\EmployeeManagement\EmployeeManagement.Factories\bin\Debug\netcoreapp3.1\EmployeeManagement.Factories.dll
+C:\Users\LENOVO\source\repos\EmployeeManagement\EmployeeManagement.Factories\bin\Debug\netcoreapp3.1\EmployeeManagement.Factories.pdb
+C:\Users\LENOVO\source\repos\EmployeeManagement\EmployeeManagement.Factories\obj\Debug\netcoreapp3.1\EmployeeManagement.Factories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\EmployeeManagement\EmployeeManagement.Factories\obj\Debug\netcoreapp3.1\EmployeeManagement.Factories.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\EmployeeManagement\EmployeeManagement.Factories\obj\Debug\netcoreapp3.1\EmployeeManagement.Factories.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\EmployeeManagement\EmployeeManagement.Factories\obj\Debug\netcoreapp3.1\EmployeeManagement.Factories.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\EmployeeManagement\EmployeeManagement.Factories\obj\Debug\netcoreapp3.1\EmployeeManagement.Factories.dll
+C:\Users\LENOVO\source\repos\EmployeeManagement\EmployeeManagement.Factories\obj\Debug\netcoreapp3.1\EmployeeManagement.Factories.pdb

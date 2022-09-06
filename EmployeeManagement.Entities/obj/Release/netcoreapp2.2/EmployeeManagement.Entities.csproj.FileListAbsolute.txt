@@ -1,0 +1,13 @@
+E:\EmployeeManagement\EmployeeManagement.Entities\bin\Release\netcoreapp2.2\EmployeeManagement.Entities.deps.json
+E:\EmployeeManagement\EmployeeManagement.Entities\bin\Release\netcoreapp2.2\EmployeeManagement.Entities.dll
+E:\EmployeeManagement\EmployeeManagement.Entities\bin\Release\netcoreapp2.2\EmployeeManagement.Entities.pdb
+E:\EmployeeManagement\EmployeeManagement.Entities\bin\Release\netcoreapp2.2\EmployeeManagement.Utilities.dll
+E:\EmployeeManagement\EmployeeManagement.Entities\bin\Release\netcoreapp2.2\EmployeeManagement.Utilities.pdb
+E:\EmployeeManagement\EmployeeManagement.Entities\obj\Release\netcoreapp2.2\EmployeeManagement.Entities.csproj.AssemblyReference.cache
+E:\EmployeeManagement\EmployeeManagement.Entities\obj\Release\netcoreapp2.2\EmployeeManagement.Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\EmployeeManagement\EmployeeManagement.Entities\obj\Release\netcoreapp2.2\EmployeeManagement.Entities.AssemblyInfoInputs.cache
+E:\EmployeeManagement\EmployeeManagement.Entities\obj\Release\netcoreapp2.2\EmployeeManagement.Entities.AssemblyInfo.cs
+E:\EmployeeManagement\EmployeeManagement.Entities\obj\Release\netcoreapp2.2\EmployeeManagement.Entities.csproj.CoreCompileInputs.cache
+E:\EmployeeManagement\EmployeeManagement.Entities\obj\Release\netcoreapp2.2\EmployeeManagement.Entities.csproj.CopyComplete
+E:\EmployeeManagement\EmployeeManagement.Entities\obj\Release\netcoreapp2.2\EmployeeManagement.Entities.dll
+E:\EmployeeManagement\EmployeeManagement.Entities\obj\Release\netcoreapp2.2\EmployeeManagement.Entities.pdb

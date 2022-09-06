@@ -1,0 +1,13 @@
+E:\EmployeeManagement\EmployeeManagement.Dtos\bin\Debug\netcoreapp2.2\EmployeeManagement.Dtos.deps.json
+E:\EmployeeManagement\EmployeeManagement.Dtos\bin\Debug\netcoreapp2.2\EmployeeManagement.Dtos.dll
+E:\EmployeeManagement\EmployeeManagement.Dtos\bin\Debug\netcoreapp2.2\EmployeeManagement.Dtos.pdb
+E:\EmployeeManagement\EmployeeManagement.Dtos\bin\Debug\netcoreapp2.2\EmployeeManagement.Utilities.dll
+E:\EmployeeManagement\EmployeeManagement.Dtos\bin\Debug\netcoreapp2.2\EmployeeManagement.Utilities.pdb
+E:\EmployeeManagement\EmployeeManagement.Dtos\obj\Debug\netcoreapp2.2\EmployeeManagement.Dtos.csproj.AssemblyReference.cache
+E:\EmployeeManagement\EmployeeManagement.Dtos\obj\Debug\netcoreapp2.2\EmployeeManagement.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+E:\EmployeeManagement\EmployeeManagement.Dtos\obj\Debug\netcoreapp2.2\EmployeeManagement.Dtos.AssemblyInfoInputs.cache
+E:\EmployeeManagement\EmployeeManagement.Dtos\obj\Debug\netcoreapp2.2\EmployeeManagement.Dtos.AssemblyInfo.cs
+E:\EmployeeManagement\EmployeeManagement.Dtos\obj\Debug\netcoreapp2.2\EmployeeManagement.Dtos.csproj.CoreCompileInputs.cache
+E:\EmployeeManagement\EmployeeManagement.Dtos\obj\Debug\netcoreapp2.2\EmployeeManagement.Dtos.csproj.CopyComplete
+E:\EmployeeManagement\EmployeeManagement.Dtos\obj\Debug\netcoreapp2.2\EmployeeManagement.Dtos.dll
+E:\EmployeeManagement\EmployeeManagement.Dtos\obj\Debug\netcoreapp2.2\EmployeeManagement.Dtos.pdb

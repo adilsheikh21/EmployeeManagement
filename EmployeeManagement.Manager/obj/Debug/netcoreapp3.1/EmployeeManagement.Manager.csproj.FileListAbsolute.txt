@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\EmployeeManagement\EmployeeManagement.Manager\bin\Debug\netcoreapp3.1\EmployeeManagement.Manager.deps.json
+C:\Users\LENOVO\source\repos\EmployeeManagement\EmployeeManagement.Manager\bin\Debug\netcoreapp3.1\EmployeeManagement.Manager.dll
+C:\Users\LENOVO\source\repos\EmployeeManagement\EmployeeManagement.Manager\bin\Debug\netcoreapp3.1\EmployeeManagement.Manager.pdb
+C:\Users\LENOVO\source\repos\EmployeeManagement\EmployeeManagement.Manager\bin\Debug\netcoreapp3.1\EmployeeManagement.DataLayer.dll
+C:\Users\LENOVO\source\repos\EmployeeManagement\EmployeeManagement.Manager\bin\Debug\netcoreapp3.1\EmployeeManagement.Infrastructure.dll
+C:\Users\LENOVO\source\repos\EmployeeManagement\EmployeeManagement.Manager\bin\Debug\netcoreapp3.1\EmployeeManagement.Utilities.dll
+C:\Users\LENOVO\source\repos\EmployeeManagement\EmployeeManagement.Manager\bin\Debug\netcoreapp3.1\EmployeeManagement.DataLayer.pdb
+C:\Users\LENOVO\source\repos\EmployeeManagement\EmployeeManagement.Manager\bin\Debug\netcoreapp3.1\EmployeeManagement.Infrastructure.pdb
+C:\Users\LENOVO\source\repos\EmployeeManagement\EmployeeManagement.Manager\bin\Debug\netcoreapp3.1\EmployeeManagement.Utilities.pdb
+C:\Users\LENOVO\source\repos\EmployeeManagement\EmployeeManagement.Manager\obj\Debug\netcoreapp3.1\EmployeeManagement.Manager.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\EmployeeManagement\EmployeeManagement.Manager\obj\Debug\netcoreapp3.1\EmployeeManagement.Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\EmployeeManagement\EmployeeManagement.Manager\obj\Debug\netcoreapp3.1\EmployeeManagement.Manager.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\EmployeeManagement\EmployeeManagement.Manager\obj\Debug\netcoreapp3.1\EmployeeManagement.Manager.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\EmployeeManagement\EmployeeManagement.Manager\obj\Debug\netcoreapp3.1\EmployeeManagement.Manager.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\EmployeeManagement\EmployeeManagement.Manager\obj\Debug\netcoreapp3.1\EmployeeManagement.Manager.csproj.CopyComplete
+C:\Users\LENOVO\source\repos\EmployeeManagement\EmployeeManagement.Manager\obj\Debug\netcoreapp3.1\EmployeeManagement.Manager.dll
+C:\Users\LENOVO\source\repos\EmployeeManagement\EmployeeManagement.Manager\obj\Debug\netcoreapp3.1\EmployeeManagement.Manager.pdb

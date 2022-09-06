@@ -1,0 +1,9 @@
+C:\Users\LENOVO\source\repos\EmployeeManagement\EmployeeManagement.Dtos\bin\Debug\netcoreapp3.1\EmployeeManagement.Dtos.deps.json
+C:\Users\LENOVO\source\repos\EmployeeManagement\EmployeeManagement.Dtos\bin\Debug\netcoreapp3.1\EmployeeManagement.Dtos.dll
+C:\Users\LENOVO\source\repos\EmployeeManagement\EmployeeManagement.Dtos\bin\Debug\netcoreapp3.1\EmployeeManagement.Dtos.pdb
+C:\Users\LENOVO\source\repos\EmployeeManagement\EmployeeManagement.Dtos\obj\Debug\netcoreapp3.1\EmployeeManagement.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\EmployeeManagement\EmployeeManagement.Dtos\obj\Debug\netcoreapp3.1\EmployeeManagement.Dtos.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\EmployeeManagement\EmployeeManagement.Dtos\obj\Debug\netcoreapp3.1\EmployeeManagement.Dtos.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\EmployeeManagement\EmployeeManagement.Dtos\obj\Debug\netcoreapp3.1\EmployeeManagement.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\EmployeeManagement\EmployeeManagement.Dtos\obj\Debug\netcoreapp3.1\EmployeeManagement.Dtos.dll
+C:\Users\LENOVO\source\repos\EmployeeManagement\EmployeeManagement.Dtos\obj\Debug\netcoreapp3.1\EmployeeManagement.Dtos.pdb

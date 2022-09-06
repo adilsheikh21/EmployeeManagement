@@ -1,0 +1,10 @@
+E:\EmployeeManagement\EmployeeManagement.Utilities\bin\Release\netcoreapp2.2\EmployeeManagement.Utilities.deps.json
+E:\EmployeeManagement\EmployeeManagement.Utilities\bin\Release\netcoreapp2.2\EmployeeManagement.Utilities.dll
+E:\EmployeeManagement\EmployeeManagement.Utilities\bin\Release\netcoreapp2.2\EmployeeManagement.Utilities.pdb
+E:\EmployeeManagement\EmployeeManagement.Utilities\obj\Release\netcoreapp2.2\EmployeeManagement.Utilities.csproj.AssemblyReference.cache
+E:\EmployeeManagement\EmployeeManagement.Utilities\obj\Release\netcoreapp2.2\EmployeeManagement.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+E:\EmployeeManagement\EmployeeManagement.Utilities\obj\Release\netcoreapp2.2\EmployeeManagement.Utilities.AssemblyInfoInputs.cache
+E:\EmployeeManagement\EmployeeManagement.Utilities\obj\Release\netcoreapp2.2\EmployeeManagement.Utilities.AssemblyInfo.cs
+E:\EmployeeManagement\EmployeeManagement.Utilities\obj\Release\netcoreapp2.2\EmployeeManagement.Utilities.csproj.CoreCompileInputs.cache
+E:\EmployeeManagement\EmployeeManagement.Utilities\obj\Release\netcoreapp2.2\EmployeeManagement.Utilities.dll
+E:\EmployeeManagement\EmployeeManagement.Utilities\obj\Release\netcoreapp2.2\EmployeeManagement.Utilities.pdb

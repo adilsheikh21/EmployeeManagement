@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ayOfnzXovDAertsxnEIZ+9e+y7Dk6+C6yuLg7Hn6Z7m/TpOX33gXXaqxZkitOfbCt+pL0xGrNpXleExuNgTPLg==",
+  "success": true,
+  "projectFilePath": "E:\\EmployeeManagement\\EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.12.1\\microsoft.identitymodel.jsonwebtokens.6.12.1.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.identitymodel.logging\\6.12.1\\microsoft.identitymodel.logging.6.12.1.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.12.1\\microsoft.identitymodel.tokens.6.12.1.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.12.1\\system.identitymodel.tokens.jwt.6.12.1.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
